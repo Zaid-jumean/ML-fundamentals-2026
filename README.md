@@ -1,7 +1,9 @@
 # ML-fundamentals-2026
 
 ML Foundations - Individual Assignment 1 
+
 Student: Zaid Jumean 
+
 IE University 
 
 # Overview: 
